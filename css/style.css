@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  border-top: 5px solid #222222;
+  border-bottom:  5px solid#222222;
+  padding: 50px 50px 50px 50px;
+  background-color: #F6F6F6;
+  max-width: 700px;
+  margin: 20px auto 0 auto;
+}
+
+a{
+  font-weight: bold;
+  color: #05080C;
+}
+
+.thispage{
+  font-style: oblique;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+}
+
+h2{
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+nav,
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.dog
+ {
+border: 1px solid #222229;
+padding: 5px;
+background-color: white;
+float: right;
+height: auto;
+width: auto;
+max-width: 300px;
+max-height:300px;
+}
+
+.social_links {
+margin: 30px 0 30px 0
+}
